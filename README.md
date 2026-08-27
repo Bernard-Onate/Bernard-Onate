@@ -20,7 +20,7 @@ Bridging 8 years of clinical cardiology experience with cutting-edge AI to impro
 
 - **Electrophysiology Lab** — Setup and operation of EP systems during cardiac procedures at Karolinska
 - **Cardiology Sonographer** — Independent diagnostic cardiac ultrasound (echocardiography)
-- **7 years** in high-stakes cardiovascular clinical environments
+- **8 years** in high-stakes cardiovascular clinical environments
 
 ---
 
