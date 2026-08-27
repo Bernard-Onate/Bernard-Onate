@@ -27,7 +27,7 @@ Bridging 8 years of cardiovascular clinical expertise with machine learning and 
 
 ## 🔬 Featured Projects
 
-### [Echocardiography LLM-Reports Evaluation](https://github.com/Bernard-Onate/Bernard-Onate)
+### [Echocardiography LLM-Reports Evaluation](https://github.com/Bernard-Onate/echocardiography-llm-evaluation)
 Comparative evaluation of ChatGPT-4o, Gemini 3 Flash, and EchoGPT for automated echocardiography report generation across 60 clinical cases.
 - 180 model outputs evaluated by two expert raters using structured scoring
 - Statistical pipeline: ICC, Cohen's Kappa, Friedman test, Bonferroni-corrected Wilcoxon post hoc, Cramér's V
