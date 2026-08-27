@@ -1,7 +1,7 @@
 # Hi, I'm Bernard Onate Öberg 👋
 
 **MSc AI for Health · Biomedical Scientist · AWS Certified AI Practitioner**  
-Bridging 7 years of clinical cardiology experience with cutting-edge AI to improve healthcare outcomes.
+Bridging 8 years of clinical cardiology experience with cutting-edge AI to improve healthcare outcomes.
 
 ---
 
