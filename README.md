@@ -1,6 +1,7 @@
 # Hi, I'm Bernard Onate Öberg 👋
 
 **Data Scientist · Clinical AI Researcher · AWS Certified AI Practitioner**
+
 Bridging 8 years of cardiovascular clinical expertise with machine learning and NLP to build responsible AI for healthcare.
 
 ---
