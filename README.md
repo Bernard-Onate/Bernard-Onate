@@ -26,7 +26,7 @@ Bridging 8 years of clinical cardiology experience with cutting-edge AI to impro
 
 ## 🔬 Featured Projects
 
-### [LLM Echocardiography Benchmark](https://github.com/Bernard-Onate/llm-echocardiography-benchmark)
+### [Echocardiography LLM-Reports Evaluation](https://github.com/Bernard-Onate/echocardiography-llm-evaluation)
 > Comparative evaluation of ChatGPT-4o, Gemini 3 Flash, and EchoGPT for automated echocardiography report generation across 60 clinical cases. General-purpose LLMs outperformed the domain-specific model, challenging assumptions about fine-tuning superiority.
 
 `Python` `LLMs` `Clinical NLP` `Statistical Analysis` `Cardiology`
