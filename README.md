@@ -1,7 +1,6 @@
 # Hi, I'm Bernard Onate Öberg 👋
 
 **Data Scientist · Clinical AI Researcher · AWS Certified AI Practitioner**
-
 Bridging 8 years of cardiovascular clinical expertise with machine learning and NLP to build responsible AI for healthcare.
 
 ---
@@ -63,11 +62,21 @@ ML-based patient prioritization system for diabetes clinic triage.
 
 | Area | Skills |
 |---|---|
-| Machine Learning | Supervised/unsupervised learning, model evaluation, feature engineering |
-| NLP & LLMs | LLM benchmarking, prompt engineering, clinical text analysis |
-| Statistics | Hypothesis testing, non-parametric methods, inter-rater reliability, R |
-| Clinical Domain | Echocardiography, cardiovascular physiology, clinical decision support |
-| Cloud & MLOps | AWS (Certified), Docker, data pipelines |
+| **Machine Learning** | Supervised & unsupervised learning, model evaluation, feature engineering, scikit-learn, PyTorch |
+| **NLP & LLMs** | LLM benchmarking, prompt engineering, clinical text analysis, HuggingFace, NER |
+| **Statistics & Data Analysis** | Hypothesis testing, non-parametric methods, inter-rater reliability, R, pandas |
+| **Data Science** | Data mining, data pipelines, big data management, exploratory data analysis |
+| **Explainable AI** | Responsible AI, model interpretability, XAI methods in clinical settings |
+| **Reinforcement Learning** | RL fundamentals, reward modelling, policy optimization |
+| **Clinical Domain** | Echocardiography, cardiovascular physiology, clinical decision support, EP systems |
+| **Cloud & MLOps** | AWS (Certified), Docker, data pipelines, information security |
+| **Research & Communication** | Study design, statistical reporting, academic writing, cross-functional collaboration |
+
+---
+
+## 🎓 Academic Training (MSc AI for Health — Stockholm University)
+
+`Natural Language Processing` · `Machine Learning` · `Python Programming` · `Data Mining` · `Reinforcement Learning` · `Explainable AI` · `Foundations of Data Science` · `Information Security` · `Managing AI in Organizations` · `Open & Big Data Management` · `Data Science Research`
 
 ---
 
