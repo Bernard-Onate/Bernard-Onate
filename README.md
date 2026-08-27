@@ -1,7 +1,7 @@
 # Hi, I'm Bernard Onate Öberg 👋
 
-**MSc AI for Health · Biomedical Scientist · AWS Certified AI Practitioner**  
-Bridging 8 years of clinical cardiology experience with cutting-edge AI to improve healthcare outcomes.
+**Data Scientist · Clinical AI Researcher · AWS Certified AI Practitioner**
+Bridging 8 years of cardiovascular clinical expertise with machine learning and NLP to build responsible AI for healthcare.
 
 ---
 
@@ -12,50 +12,65 @@ Bridging 8 years of clinical cardiology experience with cutting-edge AI to impro
 - 🏥 Biomedical Scientist & Sonographer — Karolinska University Hospital (2018–Present)
 - ☁️ AWS Certified AI Practitioner (2025)
 - 📍 Stockholm, Sweden
-- 💡 Interests: Clinical NLP, LLM Evaluation, Medical Imaging, Responsible AI in Healthcare
+- 💡 Interests: Clinical NLP · LLM Evaluation · Medical Imaging · Responsible AI · Statistical Modelling
 
 ---
 
 ## 💼 Experience Highlights
 
-- **Electrophysiology Lab** — Setup and operation of EP systems during cardiac procedures at Karolinska
-- **Cardiology Sonographer** — Independent diagnostic cardiac ultrasound (echocardiography)
-- **8 years** in high-stakes cardiovascular clinical environments
+- **Clinical Data Generation** — Produced and interpreted structured diagnostic datasets from 1,000+ cardiac ultrasound examinations, developing deep domain expertise in cardiovascular data pipelines
+- **Electrophysiology Lab** — Operated EP systems during high-stakes cardiac procedures at Karolinska, working with real-time physiological signal data
+- **8 years** in cardiovascular clinical environments — translating complex medical data into actionable clinical decisions
 
 ---
 
 ## 🔬 Featured Projects
 
-### [Echocardiography LLM-Reports Evaluation](https://github.com/Bernard-Onate/echocardiography-llm-evaluation)
-> Comparative evaluation of ChatGPT-4o, Gemini 3 Flash, and EchoGPT for automated echocardiography report generation across 60 clinical cases. General-purpose LLMs outperformed the domain-specific model, challenging assumptions about fine-tuning superiority.
+### [Echocardiography LLM-Reports Evaluation](https://github.com/Bernard-Onate/Bernard-Onate)
+Comparative evaluation of ChatGPT-4o, Gemini 3 Flash, and EchoGPT for automated echocardiography report generation across 60 clinical cases.
+- 180 model outputs evaluated by two expert raters using structured scoring
+- Statistical pipeline: ICC, Cohen's Kappa, Friedman test, Bonferroni-corrected Wilcoxon post hoc, Cramér's V
+- General-purpose LLMs outperformed the domain-specific model, challenging assumptions about fine-tuning superiority
 
-`Python` `LLMs` `Clinical NLP` `Statistical Analysis` `Cardiology`
-
----
-
-### [Diabetes Clinical Triage](https://github.com/Bernard-Onate/Diabetes-Clinical-Triage)
-> ML-based triage system for diabetes clinic patient prioritization.
-
-`Python` `scikit-learn` `Healthcare AI`
+`Python` `R` `LLMs` `Clinical NLP` `Statistical Analysis` `Hypothesis Testing` `Cardiology`
 
 ---
 
-## 🛠️ Tech Stack
+### [Diabetes Clinical Triage](https://github.com/Bernard-Onate/diabetes-clinic-triage)
+ML-based patient prioritization system for diabetes clinic triage.
+- Supervised classification pipeline using scikit-learn
+- Feature engineering from structured clinical data
+
+`Python` `scikit-learn` `pandas` `Healthcare AI` `Classification`
+
+---
+
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+## 📊 Core Competencies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernard-onate-oberg-577866236)
+| Area | Skills |
+|---|---|
+| Machine Learning | Supervised/unsupervised learning, model evaluation, feature engineering |
+| NLP & LLMs | LLM benchmarking, prompt engineering, clinical text analysis |
+| Statistics | Hypothesis testing, non-parametric methods, inter-rater reliability, R |
+| Clinical Domain | Echocardiography, cardiovascular physiology, clinical decision support |
+| Cloud & MLOps | AWS (Certified), Docker, data pipelines |
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bernard-onate-öberg-577866236)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:obergbernard@gmail.com)
-
----
-
-*"AI in healthcare should augment clinical expertise, not replace it."*
